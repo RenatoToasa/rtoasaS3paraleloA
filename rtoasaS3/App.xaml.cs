@@ -9,7 +9,7 @@ namespace rtoasaS3
         public App()
         {
             InitializeComponent();
-
+            //Navegacion
             MainPage = new NavigationPage(new Page1());
         }
 
